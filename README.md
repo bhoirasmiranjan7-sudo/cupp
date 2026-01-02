@@ -1,4 +1,4 @@
-# cupp
+ pip3 install -e . && cupp -v# cupp
 > Common User Password Profiler
 
 -----
